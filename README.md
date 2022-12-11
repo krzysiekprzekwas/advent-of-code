@@ -14,3 +14,4 @@ My solutions to the Advent of Code - https://adventofcode.com
 | 7 | [No Space Left On Device](https://adventofcode.com/2022/day/7) | [Source](2022/07/solution_07.py) |
 | 8 | [Treetop Tree House](https://adventofcode.com/2022/day/8) | [Source](2022/08/solution_08.py) |
 | 9 | [Rope Bridge](https://adventofcode.com/2022/day/9) | [Source](2022/09/solution_09.py) |
+| 10 | [Cathode-Ray Tube](https://adventofcode.com/2022/day/10) | [Source](2022/10/solution_10.py) |
