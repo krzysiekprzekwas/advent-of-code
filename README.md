@@ -15,5 +15,5 @@ My solutions to the Advent of Code - https://adventofcode.com
 | 8 | [Treetop Tree House](https://adventofcode.com/2022/day/8) | [Source](2022/08/solution_08.py) |
 | 9 | [Rope Bridge](https://adventofcode.com/2022/day/9) | [Source](2022/09/solution_09.py) |
 | 10 | [Cathode-Ray Tube](https://adventofcode.com/2022/day/10) | [Source](2022/10/solution_10.py) |
-| 11 | [Monkey in the Middle](https://adventofcode.com/2022/day/11) | Not yet |
+| 11 | [Monkey in the Middle](https://adventofcode.com/2022/day/11) | [Source](2022/11/solution_11.py) |
 | 12 | [Hill Climbing Algorithm](https://adventofcode.com/2022/day/12) | [Source](2022/12/solution_12.py) |
