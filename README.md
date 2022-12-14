@@ -18,3 +18,4 @@ My solutions to the Advent of Code - https://adventofcode.com
 | 11 | [Monkey in the Middle](https://adventofcode.com/2022/day/11) | [Source](2022/11/solution_11.py) |
 | 12 | [Hill Climbing Algorithm](https://adventofcode.com/2022/day/12) | [Source](2022/12/solution_12.py) |
 | 13 | [Distress Signal](https://adventofcode.com/2022/day/13) | [Source](2022/13/solution_13.py) |
+| 14 | [Regolith Reservoir](https://adventofcode.com/2022/day/14) | [Source](2022/14/solution_14.py) |
