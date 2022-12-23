@@ -20,3 +20,5 @@ My solutions to the Advent of Code - https://adventofcode.com
 | 13 | [Distress Signal](https://adventofcode.com/2022/day/13) | [Source](2022/13/solution_13.py) |
 | 14 | [Regolith Reservoir](https://adventofcode.com/2022/day/14) | [Source](2022/14/solution_14.py) |
 | 15 | [Beacon Exclusion Zone](https://adventofcode.com/2022/day/15) | [Source](2022/15/solution_15.py) |
+| *** | *** | *** |
+| 21 | [Monkey Math](https://adventofcode.com/2022/day/21) | [Source](2022/21/solution_21.py) |
