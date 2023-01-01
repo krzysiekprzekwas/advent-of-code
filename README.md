@@ -22,3 +22,6 @@ My solutions to the Advent of Code - https://adventofcode.com
 | 15 | [Beacon Exclusion Zone](https://adventofcode.com/2022/day/15) | [Source](2022/15/solution_15.py) |
 | *** | *** | *** |
 | 21 | [Monkey Math](https://adventofcode.com/2022/day/21) | [Source](2022/21/solution_21.py) |
+| 22 | [Monkey Map](https://adventofcode.com/2022/day/22) | [Source](2022/22/solution_22.py) |
+| *** | *** | *** |
+| 25 | [Full of Hot Air](https://adventofcode.com/2022/day/25) | [Source](2022/25/solution_25.py) |
